@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+jupyterhub.sqlite
+nohup.out
+jupyterhub_cookie_secret
