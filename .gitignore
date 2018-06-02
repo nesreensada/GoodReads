@@ -2,3 +2,4 @@
 jupyterhub.sqlite
 nohup.out
 jupyterhub_cookie_secret
+*.csv
